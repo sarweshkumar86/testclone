@@ -1,3 +1,15 @@
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(10, 10, 10);
+        text-align: center;
+        padding: 30px;
+        color: white;
+    }
+
 h1{
     color: whitesmoke;
     background-color: darkolivegreen;
